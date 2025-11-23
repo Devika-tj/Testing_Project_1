@@ -64,5 +64,5 @@ The following test cases are recorded and saved as part of the Selenium IDE test
 
 ## 6. Author
 Automated using Selenium IDE by: Devika J
-The project contains the following exported Selenium IDE files:
+
 
